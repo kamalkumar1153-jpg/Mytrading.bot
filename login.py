@@ -1,0 +1,1 @@
+import urllib.parse; api_key = 'c6e93739-0e7f-4c2e-9a35-8e0e44ea015a'; print(f'https://api.upstox.com/v2/login/authorization/dialog?response_type=code&client_id={api_key}&redirect_uri=https://google.com')
